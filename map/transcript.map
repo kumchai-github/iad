@@ -1,0 +1,10 @@
+LEARNER=string(255):mandatory
+OFFERING=string(255):mandatory
+COMPLETION_DATE=date(yyyy-MM-dd):mandatory
+DURATION=time
+DELIVERY_TYPE=string(255):mandatory
+MARK_COMPLETED_BY=string(255)
+SCORE=float
+GRADE=string(255)
+COMPLETION_STATUS=string(50):mandatory
+UPDATED_REGISTRATION_DATE=date(yyyy-MM-dd)

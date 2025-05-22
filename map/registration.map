@@ -1,0 +1,10 @@
+ID=string(25)
+BASE_CUSTOMER=string(100):mandatory
+BILLED_TO=string(100):mandatory
+OFFERING=string(100):mandatory
+LEARNER=string(100):mandatory
+CURRENCY=string(25):mandatory
+SOURCE_USER=string(100):mandatory
+ACTION=string(100):mandatory
+DELIVERY_TYPE=string(100)
+
